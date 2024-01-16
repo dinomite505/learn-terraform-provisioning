@@ -17,7 +17,7 @@ users:
     groups: users, admin
     lock_passwd: false
     ssh_authorized_keys:
-      - ssh-rsa AAAAHHHHHH
+      - ssh-rsa SHA256:usQRjFMUsHcwaht9KNa6SDk0joYlZNswSy/N/b0g4I0
 
 # Downloads the golang package
 packages:
